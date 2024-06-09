@@ -28,7 +28,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 
 ## Entre em Contato
-- [Email](joseotaviojunqueira@usp.br)
+- [Email](mailto:joseotaviojunqueira@usp.br)
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-junqueira-ramos-670288240/)
 
 
