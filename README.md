@@ -6,7 +6,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ## Projetos
 
-### [Sistema de Presença por Código de Barras](https://github.com/seu-usuario/projeto-1)
+### [Sistema de Presença por Código de Barras](https://github.com/JoseOtavioJunqueira/SistemaDePresenca)
 **Descrição**: Este projeto de automação lê o código de barras da carteirinha de um aluno e atribui automaticamente presença para ele em uma planilha do Google Sheets.
 **Tecnologias Usadas**: Python, Pyzbar e Google Cloud Services.
 
