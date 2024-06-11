@@ -22,6 +22,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ### [Gerar QRCODE para eventos](https://github.com/JoseOtavioJunqueira/QRCODEGenerator)
 **Descrição**: Este projeto de automação recebe do usuário uma planilha do Google Sheets e analisa se foi confirmado o pagamento. Se sim, gera um QRCODE e envia para o email do comprador. Esse QRCODE é utilizado para a entrada em eventos. OBS: Interface Gráfica.
+
 **Tecnologias Usadas**: Python, PySimpleGUI, Google Cloud Services e biblioteca "qrcode".
 
 [(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_3.png)
