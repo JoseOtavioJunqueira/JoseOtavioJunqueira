@@ -16,7 +16,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 ### [Gerador automático de holerite](https://github.com/JoseOtavioJunqueira/GeradorHolerite)
 **Descrição**: Este projeto de análise de dados e automação trabalha uma planilha gerada automaticamente, que contém o código de um funcionário, seu salário-base e algumas informações sobre seu mês de trabalho, e gera o seu holerite em menos de 10 segundos. OBS: Interface Gráfica.
 
-**Tecnologias Usadas**: Python e PySimpleGUI.
+**Tecnologias Usadas**: Python, Pandas e PySimpleGUI.
 
 [(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_2.png)
 
