@@ -27,6 +27,13 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 [(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_3.png)
 
+### [FlappyBird](https://github.com/JoseOtavioJunqueira/FlappyBird)
+**Descrição**: Este projeto possui intuito educativo para lecionar sobre o Python Orientado a Objetos. O jogo foi programado com intuito de recriar o clássico FlappyBird. 
+
+**Tecnologias Usadas**: Python e PyGame.
+
+[(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_4.png)
+
 
 ## Entre em Contato
 - [Email](mailto:joseotaviojunqueira@usp.br)
