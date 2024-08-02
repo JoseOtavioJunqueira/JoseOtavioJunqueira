@@ -39,7 +39,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 **Tecnologias Usadas**: HTML5, CSS3 e JavaScript.
 
-[(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_5.png)
+[(Acesse_o_site)][(https://joseotaviojunqueira.github.io/MeuPortifolio/)]
 
 
 ## Entre em Contato
