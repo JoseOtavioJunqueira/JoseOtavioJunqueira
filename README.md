@@ -34,9 +34,16 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 [(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_4.png)
 
+### [Portifólio](https://github.com/JoseOtavioJunqueira/MeuPortifolio)
+**Descrição**: WebSite de apresentação pessoal para recrutadores e outras pessoas, contendo projetos e informações pessoais. O projeto é recheado com aplicações interessantes de HTML5 e CSS3, além de uma pontual utilização de JavaScript. 
+
+**Tecnologias Usadas**: HTML5, CSS3 e JavaScript.
+
+[(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_5.png)
+
 
 ## Entre em Contato
-- [Email](mailto:joseotaviojunqueira@usp.br)
+- [Email](mailto:joseotavio.jr1104@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-junqueira-ramos-670288240/)
 
 
