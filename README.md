@@ -20,26 +20,26 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 [(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_2.png)
 
-### [Gerar QRCODE para eventos](https://github.com/JoseOtavioJunqueira/QRCODEGenerator)
-**Descrição**: Este projeto de automação recebe do usuário uma planilha do Google Sheets e analisa se foi confirmado o pagamento. Se sim, gera um QRCODE e envia para o email do comprador. Esse QRCODE é utilizado para a entrada em eventos. OBS: Interface Gráfica.
+### [TaskMaster](https://github.com/JoseOtavioJunqueira/QRCODEGenerator)
+**Descrição**: Projeto Full-Stack com tela inicial, login e tela principal para marcar tarefas e afazeres. Desenvolvido com sistema Flask, utilizando banco de dados.
 
-**Tecnologias Usadas**: Python, PySimpleGUI, Google Cloud Services e biblioteca "qrcode".
+**Tecnologias Usadas**: Python, HTML5, CSS3, JavaScript, Flask e SQLite.
 
-[(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_3.png)
+[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/task.png)
 
 ### [FlappyBird](https://github.com/JoseOtavioJunqueira/FlappyBird)
 **Descrição**: Este projeto possui intuito educativo para lecionar sobre o Python Orientado a Objetos. O jogo foi programado com intuito de recriar o clássico FlappyBird. 
 
 **Tecnologias Usadas**: Python e PyGame.
 
-[(Print_do_programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_4.png)
+[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_4.png)
 
 ### [Portifólio](https://github.com/JoseOtavioJunqueira/MeuPortifolio)
 **Descrição**: WebSite de apresentação pessoal para recrutadores e outras pessoas, contendo projetos e informações pessoais. O projeto é recheado com aplicações interessantes de HTML5 e CSS3, além de uma pontual utilização de JavaScript. 
 
 **Tecnologias Usadas**: HTML5, CSS3 e JavaScript.
 
-[(Acesse_o_site)](https://joseotaviojunqueira.github.io/MeuPortifolio/)
+[(Acesse o site)](https://joseotaviojunqueira.github.io/MeuPortifolio/)
 
 
 ## Entre em Contato
