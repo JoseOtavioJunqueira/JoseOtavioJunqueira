@@ -6,6 +6,20 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ## Projetos
 
+### [TaskMaster](https://github.com/JoseOtavioJunqueira/TaskMaster)
+**Descrição**: Projeto Full-Stack com tela inicial, login e tela principal para marcar tarefas e afazeres. Desenvolvido com sistema Flask, utilizando banco de dados.
+
+**Tecnologias Usadas**: Python, HTML5, CSS3, JavaScript, Flask e SQLite.
+
+[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/task.png)
+
+### [Portifólio](https://github.com/JoseOtavioJunqueira/MeuPortifolio)
+**Descrição**: WebSite de apresentação pessoal para recrutadores e outras pessoas, contendo projetos e informações pessoais. O projeto é recheado com aplicações interessantes de HTML5 e CSS3, além de uma pontual utilização de JavaScript. 
+
+**Tecnologias Usadas**: HTML5, CSS3 e JavaScript.
+
+[(Acesse o site)](https://joseotaviojunqueira.github.io/MeuPortifolio/)
+
 ### [Sistema de Presença por Código de Barras](https://github.com/JoseOtavioJunqueira/SistemaDePresenca)
 **Descrição**: Este projeto de automação lê o código de barras da carteirinha de um aluno e atribui automaticamente presença para ele em uma planilha do Google Sheets.
 
@@ -20,13 +34,6 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 [(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_2.png)
 
-### [TaskMaster](https://github.com/JoseOtavioJunqueira/TaskMaster)
-**Descrição**: Projeto Full-Stack com tela inicial, login e tela principal para marcar tarefas e afazeres. Desenvolvido com sistema Flask, utilizando banco de dados.
-
-**Tecnologias Usadas**: Python, HTML5, CSS3, JavaScript, Flask e SQLite.
-
-[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/task.png)
-
 ### [FlappyBird](https://github.com/JoseOtavioJunqueira/FlappyBird)
 **Descrição**: Este projeto possui intuito educativo para lecionar sobre o Python Orientado a Objetos. O jogo foi programado com intuito de recriar o clássico FlappyBird. 
 
@@ -34,18 +41,6 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 [(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_4.png)
 
-### [Portifólio](https://github.com/JoseOtavioJunqueira/MeuPortifolio)
-**Descrição**: WebSite de apresentação pessoal para recrutadores e outras pessoas, contendo projetos e informações pessoais. O projeto é recheado com aplicações interessantes de HTML5 e CSS3, além de uma pontual utilização de JavaScript. 
-
-**Tecnologias Usadas**: HTML5, CSS3 e JavaScript.
-
-[(Acesse o site)](https://joseotaviojunqueira.github.io/MeuPortifolio/)
-
-
 ## Entre em Contato
 - [Email](mailto:joseotavio.jr1104@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-junqueira-ramos-670288240/)
-
-
-
-
