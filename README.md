@@ -6,7 +6,7 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 ## Projetos
 
-### [TaskMaster](https://github.com/JoseOtavioJunqueira/TaskMaster)
+### [TaskMaster](https://github.com/JoseOtavioJunqueira/FlaskLogin)
 **Descrição**: Projeto Full-Stack com tela inicial, login e tela principal para marcar tarefas e afazeres. Desenvolvido com sistema Flask, utilizando banco de dados.
 
 **Tecnologias Usadas**: Python, HTML5, CSS3, JavaScript, Flask e SQLite.
