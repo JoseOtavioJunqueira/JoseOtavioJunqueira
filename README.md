@@ -20,12 +20,8 @@ Aqui estão alguns dos meus projetos mais notáveis:
 
 [(Acesse o site)](https://joseotaviojunqueira.github.io/MeuPortifolio/)
 
-### [Sistema de Presença por Código de Barras](https://github.com/JoseOtavioJunqueira/SistemaDePresenca)
-**Descrição**: Este projeto de automação lê o código de barras da carteirinha de um aluno e atribui automaticamente presença para ele em uma planilha do Google Sheets.
-
-**Tecnologias Usadas**: Python, Pyzbar e Google Cloud Services.
-
-[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_1.png)
+### [Capture the Flag](https://github.com/JoseOtavioJunqueira/CaptureTheFlag)
+**Descrição**: Repositório que contém todos meus desafios concluídos e como os resolvi.
 
 ### [Gerador automático de holerite](https://github.com/JoseOtavioJunqueira/GeradorHolerite)
 **Descrição**: Este projeto de análise de dados e automação trabalha uma planilha gerada automaticamente, que contém o código de um funcionário, seu salário-base e algumas informações sobre seu mês de trabalho, e gera o seu holerite em menos de 10 segundos. OBS: Interface Gráfica.
