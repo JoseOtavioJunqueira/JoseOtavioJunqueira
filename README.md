@@ -1,42 +1,46 @@
-# Olá, eu sou José Otávio. 👋
+<h2 align="left">Hi 👋! My name is José Otávio and I'm a Computer Engineer Student, from Brazil!</h2>
 
-Sou desenvolvedor de software com experiência em automação, inteligência artificial e análise de dados.
-Faço graduação na Universidade de São Paulo (USP) em Engenharia de Computação.
-Aqui estão alguns dos meus projetos mais notáveis:
+###
 
-## Projetos
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JoseOtavioJunqueira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseOtavioJunqueira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### [TaskMaster](https://github.com/JoseOtavioJunqueira/FlaskLogin)
-**Descrição**: Projeto Full-Stack com tela inicial, login e tela principal para marcar tarefas e afazeres. Desenvolvido com sistema Flask, utilizando banco de dados.
+###
 
-**Tecnologias Usadas**: Python, HTML5, CSS3, JavaScript, Flask e SQLite.
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 
-[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/task.png)
+###
 
-### [Portifólio](https://github.com/JoseOtavioJunqueira/MeuPortifolio)
-**Descrição**: WebSite de apresentação pessoal para recrutadores e outras pessoas, contendo projetos e informações pessoais. O projeto é recheado com aplicações interessantes de HTML5 e CSS3, além de uma pontual utilização de JavaScript. 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-**Tecnologias Usadas**: HTML5, CSS3 e JavaScript.
+###
 
-[(Acesse o site)](https://joseotaviojunqueira.github.io/MeuPortifolio/)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### [Capture the Flag](https://github.com/JoseOtavioJunqueira/CaptureTheFlag)
-**Descrição**: Repositório que contém todos meus desafios concluídos e como os resolvi.
+###
 
-### [Gerador automático de holerite](https://github.com/JoseOtavioJunqueira/GeradorHolerite)
-**Descrição**: Este projeto de análise de dados e automação trabalha uma planilha gerada automaticamente, que contém o código de um funcionário, seu salário-base e algumas informações sobre seu mês de trabalho, e gera o seu holerite em menos de 10 segundos. OBS: Interface Gráfica.
+<br clear="both">
 
-**Tecnologias Usadas**: Python, Pandas e PySimpleGUI.
+<img src="https://raw.githubusercontent.com/JoseOtavioJunqueira/JoseOtavioJunqueira/output/snake.svg" alt="Snake animation" />
 
-[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_2.png)
-
-### [FlappyBird](https://github.com/JoseOtavioJunqueira/FlappyBird)
-**Descrição**: Este projeto possui intuito educativo para lecionar sobre o Python Orientado a Objetos. O jogo foi programado com intuito de recriar o clássico FlappyBird. 
-
-**Tecnologias Usadas**: Python e PyGame.
-
-[(Print do programa)](https://github.com/JoseOtavioJunqueira/JoseOtavioJunqueira/blob/main/imgs/Screenshot_4.png)
-
-## Entre em Contato
-- [Email](mailto:joseotavio.jr1104@gmail.com)
-- [Linkedin](https://www.linkedin.com/in/jos%C3%A9-ot%C3%A1vio-junqueira-ramos-670288240/)
+###
