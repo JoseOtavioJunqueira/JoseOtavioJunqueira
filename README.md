@@ -49,7 +49,7 @@ Here are some of the repositories I'm most proud of:
 
 - 🔗 [**TaskMaster**](https://github.com/JoseOtavioJunqueira/TaskMaster): Fullstack kanban-style task manager for organizing to-dos and completed tasks.
 - 🔗 [**Portfolio Selection Models**](https://github.com/JoseOtavioJunqueira/Portfolio-Selection-Models): Portfolio selection models focused on maximizing financial returns.
-- 🔗 [**Sales Prediction**](https://github.com/JoseOtavioJunqueira/Sales-Prediction): Sales forecasting model based on previous advertising data.
+- 🔗 [**Sales Prediction**](https://github.com/JoseOtavioJunqueira/Predicao-de-Vendas): Sales forecasting model based on previous advertising data.
 - 🔗 [**FlappyBird**](https://github.com/JoseOtavioJunqueira/FlappyBird): A Flappy Bird clone developed using Object-Oriented Programming concepts.
 - 🔗 [**My Portfolio**](https://github.com/JoseOtavioJunqueira/MeuPortifolio): Personal website showcasing projects, skills, and contact info.
 
