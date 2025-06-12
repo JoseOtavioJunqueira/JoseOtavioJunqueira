@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
@@ -45,11 +41,16 @@
   </a>
 </div>
 
-
 ###
 
-<br clear="both">
+### 🚀 My Top 5 Repositories
 
-<img src="https://raw.githubusercontent.com/JoseOtavioJunqueira/JoseOtavioJunqueira/output/snake.svg" alt="Snake animation" />
+Here are some of the repositories I'm most proud of:
 
-###
+- 🔗 [**TaskMaster**](https://github.com/JoseOtavioJunqueira/TaskMaster): Fullstack kanban-style task manager for organizing to-dos and completed tasks.
+- 🔗 [**Portfolio Selection Models**](https://github.com/JoseOtavioJunqueira/Portfolio-Selection-Models): Portfolio selection models focused on maximizing financial returns.
+- 🔗 [**Sales Prediction**](https://github.com/JoseOtavioJunqueira/Sales-Prediction): Sales forecasting model based on previous advertising data.
+- 🔗 [**FlappyBird**](https://github.com/JoseOtavioJunqueira/FlappyBird): A Flappy Bird clone developed using Object-Oriented Programming concepts.
+- 🔗 [**My Portfolio**](https://github.com/JoseOtavioJunqueira/MeuPortifolio): Personal website showcasing projects, skills, and contact info.
+
+---
