@@ -51,6 +51,6 @@ Here are some of the repositories I'm most proud of:
 - 🔗 [**Portfolio Selection Models**](https://github.com/JoseOtavioJunqueira/Portfolio-Selection-Models): Portfolio selection models focused on maximizing financial returns.
 - 🔗 [**Sales Prediction**](https://github.com/JoseOtavioJunqueira/Predicao-de-Vendas): Sales forecasting model based on previous advertising data.
 - 🔗 [**FlappyBird**](https://github.com/JoseOtavioJunqueira/FlappyBird): A Flappy Bird clone developed using Object-Oriented Programming concepts.
-- 🔗 [**My Portfolio**](https://github.com/JoseOtavioJunqueira/MeuPortifolio): Personal website showcasing projects, skills, and contact info.
+- 🔗 [**My Portfolio**](https://github.com/JoseOtavioJunqueira/developer-portfolio-react): Personal website showcasing projects, skills, and contact info.
 
 ---
