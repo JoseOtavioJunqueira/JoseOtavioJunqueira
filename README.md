@@ -1,13 +1,43 @@
-<h2 align="left">Hi 👋! My name is José Otávio and I'm a Computer Engineering student from Brazil!</h2>
+<h1 align="left">José Otávio Junqueira Ramos</h1>
 
-###
+<h3 align="left">Software Developer — Backend, Frontend, Data &amp; AI</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseOtavioJunqueira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoseOtavioJunqueira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+<p align="left">
+  🌎 Open to remote &amp; international opportunities
+</p>
 
-###
+I'm a software developer building end-to-end solutions across backend, frontend, data, and AI — from internal tooling and dashboards to production websites and R&amp;D applications. I care about turning real-world problems into scalable, well-structured, maintainable systems.
+
+---
+
+### 💼 Experience
+
+**Software Developer** — Centro de Pesquisas Avançadas Wernher von Braun (CPA/USP)
+*Jun 2026 – Present*
+Developing interactive systems and software applications for R&amp;D projects using C#, Unity, and AI — from feature implementation to system integration and digital experience design.
+
+**Tool Developer (Intern)** — Visio.ai
+*Apr 2026 – Jun 2026*
+Built and maintained internal back-office tools, integrating AI-driven automation to streamline operational workflows.
+
+**Web Developer (MEI)** — Visio.ai
+*Nov 2024 – Apr 2026*
+Owned the company's official website as part of the Growth team, focusing on performance, SEO, and data-driven improvements to support user acquisition and retention.
+
+**Systems Development Intern** — University of São Paulo, School of Management (CODAGE)
+*Nov 2024 – Apr 2026*
+Developed and maintained the department's official website and built an interactive dashboard for training data analysis, supporting strategic decision-making for university staff.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Engineering, Computer Engineering**
+University of São Paulo (USP) · 2024 – 2028 (in progress)
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -25,27 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="https://www.instagram.com/joseota_eu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/joseotaviojunqueiraramos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  
-  <a href="mailto:joseotavio.jr1104@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-### 🚀 My Top 5 Repositories
-
-Here are some of the repositories I'm most proud of:
+### 🚀 Top Repositories
 
 - 🔗 [**TaskMaster**](https://github.com/JoseOtavioJunqueira/FlaskLogin): Fullstack kanban-style task manager for organizing to-dos and completed tasks.
 - 🔗 [**Portfolio Selection Models**](https://github.com/JoseOtavioJunqueira/Portfolio-Selection-Models): Portfolio selection models focused on maximizing financial returns.
@@ -54,3 +66,15 @@ Here are some of the repositories I'm most proud of:
 - 🔗 [**My Portfolio**](https://github.com/JoseOtavioJunqueira/developer-portfolio-react): Personal website showcasing projects, skills, and contact info.
 
 ---
+
+### 📫 Contact
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/joseotaviojunqueiraramos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+
+  <a href="mailto:joseotavio.jr1104@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
