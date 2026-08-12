@@ -59,6 +59,7 @@ University of São Paulo (USP) · 2024 – 2028 (in progress)
 
 ### 🚀 Top Repositories
 
+- 🔗 [**Backend Itau Challenge**](https://github.com/JoseOtavioJunqueira/desafio-itau-backend): Real-time transaction-processing REST API (Java 17, Spring Boot 3) with thread-safe in-memory storage, full unit/integration test coverage, Docker packaging, and OpenAPI/Swagger docs.
 - 🔗 [**TaskMaster**](https://github.com/JoseOtavioJunqueira/FlaskLogin): Fullstack kanban-style task manager for organizing to-dos and completed tasks.
 - 🔗 [**Portfolio Selection Models**](https://github.com/JoseOtavioJunqueira/Portfolio-Selection-Models): Portfolio selection models focused on maximizing financial returns.
 - 🔗 [**Sales Prediction**](https://github.com/JoseOtavioJunqueira/Predicao-de-Vendas): Sales forecasting model based on previous advertising data.
